@@ -1,0 +1,10 @@
+X:\МДК 01.01\Pr_11_Win\bin\Debug\Pr_11_Win.exe.config
+X:\МДК 01.01\Pr_11_Win\bin\Debug\Pr_11_Win.exe
+X:\МДК 01.01\Pr_11_Win\bin\Debug\Pr_11_Win.pdb
+X:\МДК 01.01\Pr_11_Win\obj\Debug\Pr_11_Win.csproj.AssemblyReference.cache
+X:\МДК 01.01\Pr_11_Win\obj\Debug\Pr_11_Win.Properties.Resources.resources
+X:\МДК 01.01\Pr_11_Win\obj\Debug\Pr_11_Win.csproj.GenerateResource.cache
+X:\МДК 01.01\Pr_11_Win\obj\Debug\Pr_11_Win.csproj.CoreCompileInputs.cache
+X:\МДК 01.01\Pr_11_Win\obj\Debug\Pr_11_Win.exe
+X:\МДК 01.01\Pr_11_Win\obj\Debug\Pr_11_Win.pdb
+X:\МДК 01.01\Pr_11_Win\obj\Debug\Pr_11_Win.FormMain.resources
